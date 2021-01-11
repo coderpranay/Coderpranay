@@ -10,9 +10,9 @@ z=7667
 p=2020
 s=65687
 p=(x+y)
+india='Hello India'
+print(india.upper())
 p='Hello World'
 print (p)
 #⚠️⚠️
-#Try before Output
-#Sirf Numerical wala Sochna
-#Only Try Numerical
+#🇮🇳🇮🇳🇮🇳 India op 🔥🔥
